@@ -1,0 +1,3 @@
+*Italics*
+**Bold**
+~~Strikethru~~
