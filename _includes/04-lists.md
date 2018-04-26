@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. First Favorite thing
+2. Second Favorite thing
+
+- Just a test of an unordered list
+  - Indented!
